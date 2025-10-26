@@ -391,7 +391,7 @@ Run python ride_sharing_app.py to start the simulation
 # Quick Start for Educators:
 bash
 # Download and run in one command (Linux/Mac)
-wget https://github.com/yourusername/ride-sharing-app/archive/main.zip
+wget https://github.com/lakshita-01/ride-sharing-app/archive/main.zip
 unzip main.zip
 cd ride-sharing-app-main
 pip install matplotlib numpy
