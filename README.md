@@ -411,4 +411,4 @@ ride-sharing-app/
 ├── README.md (this file)
 ├── ride_sharing_app.py (main application)
 
-# Note: Make sure you have Python installed on your system before running the application.
+Note: Make sure you have Python installed on your system before running the application.
